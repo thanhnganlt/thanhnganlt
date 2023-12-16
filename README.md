@@ -1,6 +1,6 @@
-## Hi I'm Ngan :fox_face:
+## Hi I'm Ngan 👩‍💻:
 
-![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+![NRose](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
 
 :computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
 
