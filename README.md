@@ -1,10 +1,10 @@
 ## Hi I'm Ngan 👩‍💻:
-
+[
 ![NRose](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
 
 :computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
 
-### My Tech Stack
+### My Tech Stack](url)
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
