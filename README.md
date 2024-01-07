@@ -30,6 +30,3 @@
 
 ![MacOS](http://img.shields.io/badge/-MacOS-A81D33?style=flat-square&logo=MacOS&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
----
-⭐️ From [Gaboso](https://github.com/Gaboso)
